@@ -1,0 +1,8 @@
+{
+  "workbench.activityBar.location": "top",
+  "workbench.preferredHighContrastLightColorTheme": "Default High Contrast Light",
+  "workbench.sideBar.location": "right",
+  "workbench.statusBar.visible": true,
+  "workbench.tips.enabled": true,
+  "workbench.tree.enableStickyScroll": true
+}
